@@ -169,7 +169,7 @@ npm run preview
 
 ## Future Enhancements
 
-- Backend integration with Lovable Cloud
+- Backend integration 
 - User authentication and order history
 - Payment processing with Stripe
 - Real restaurant and menu data
